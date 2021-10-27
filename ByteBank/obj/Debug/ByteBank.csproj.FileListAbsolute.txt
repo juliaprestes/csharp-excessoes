@@ -1,0 +1,7 @@
+D:\Users\julii\source\repos\Curso4-Entendendo-Excessoes\ByteBank\bin\Debug\ByteBank.exe.config
+D:\Users\julii\source\repos\Curso4-Entendendo-Excessoes\ByteBank\bin\Debug\ByteBank.exe
+D:\Users\julii\source\repos\Curso4-Entendendo-Excessoes\ByteBank\bin\Debug\ByteBank.pdb
+D:\Users\julii\source\repos\Curso4-Entendendo-Excessoes\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+D:\Users\julii\source\repos\Curso4-Entendendo-Excessoes\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+D:\Users\julii\source\repos\Curso4-Entendendo-Excessoes\ByteBank\obj\Debug\ByteBank.exe
+D:\Users\julii\source\repos\Curso4-Entendendo-Excessoes\ByteBank\obj\Debug\ByteBank.pdb
